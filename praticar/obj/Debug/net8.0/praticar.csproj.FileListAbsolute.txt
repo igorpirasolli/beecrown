@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\bin\Debug\net8.0\praticar.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\bin\Debug\net8.0\praticar.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\bin\Debug\net8.0\praticar.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\bin\Debug\net8.0\praticar.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\bin\Debug\net8.0\praticar.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\refint\praticar.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\praticar.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\praticar\obj\Debug\net8.0\ref\praticar.dll

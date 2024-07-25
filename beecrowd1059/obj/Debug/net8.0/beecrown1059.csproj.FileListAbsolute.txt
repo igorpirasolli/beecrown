@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\bin\Debug\net8.0\beecrown1059.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\bin\Debug\net8.0\beecrown1059.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\bin\Debug\net8.0\beecrown1059.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\bin\Debug\net8.0\beecrown1059.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\bin\Debug\net8.0\beecrown1059.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\refint\beecrown1059.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\beecrown1059.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrown1059\obj\Debug\net8.0\ref\beecrown1059.dll

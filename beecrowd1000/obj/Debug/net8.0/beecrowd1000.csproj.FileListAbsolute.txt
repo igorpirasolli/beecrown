@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\bin\Debug\net8.0\beecrowd1000.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\bin\Debug\net8.0\beecrowd1000.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\bin\Debug\net8.0\beecrowd1000.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\bin\Debug\net8.0\beecrowd1000.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\bin\Debug\net8.0\beecrowd1000.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\refint\beecrowd1000.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\beecrowd1000.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\logica de programaçao treinar\beecrowd1000\obj\Debug\net8.0\ref\beecrowd1000.dll

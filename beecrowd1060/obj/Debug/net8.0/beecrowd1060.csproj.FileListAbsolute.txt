@@ -1,0 +1,14 @@
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\bin\Debug\net8.0\beecrowd1060.exe
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\bin\Debug\net8.0\beecrowd1060.deps.json
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\bin\Debug\net8.0\beecrowd1060.runtimeconfig.json
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\bin\Debug\net8.0\beecrowd1060.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\bin\Debug\net8.0\beecrowd1060.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.AssemblyInfoInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.AssemblyInfo.cs
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.csproj.CoreCompileInputs.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\refint\beecrowd1060.dll
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.pdb
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\beecrowd1060.genruntimeconfig.cache
+C:\Users\igorf\OneDrive\Área de Trabalho\praticando\beecrowd1060\obj\Debug\net8.0\ref\beecrowd1060.dll
